@@ -15,10 +15,13 @@ Steganography Message Encryption and Decryption:-
 
 
 Requirements:- 
-	1. Python 3.x
-	2. OpenCV (cv2 library) for image processing
-	3. NumPy for array manipulation
-	4. Operating system: Compatible with Windows (due to file opening via os.system())
+1. Python 3.x
+
+2. OpenCV (cv2 library) for image processing
+
+3. NumPy for array manipulation
+
+4. Operating system: Compatible with Windows (due to file opening via os.system())
 
  Install the libraries:-
  
